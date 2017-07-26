@@ -2,42 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4422f1d5-cad2-40b3-84d5-46b675e108f6" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/agent.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/ArticleMeta.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/ArticlesActions.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/Comment.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/CommentContainer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/CommentInput.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/CommentList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/DeleteButton.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Article/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ArticlePreview.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Editor.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ListErrors.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/ListPagination.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Login.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Register.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/Settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/app.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/articleList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/header.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/home/Tags.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/home/banner.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/home/index.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/home/mainView.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/components/profileFavorites.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/middleware.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/article.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/articleList.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/auth.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/common.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/home.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/profile.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/reducers/settings.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/store.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/index.js" afterPath="$PROJECT_DIR$/src/index.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
@@ -150,8 +116,8 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="476">
-              <caret line="989" column="0" lean-forward="true" selection-start-line="989" selection-start-column="0" selection-end-line="989" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -383,12 +349,12 @@
       <workItem from="1500556827316" duration="1465000" />
       <workItem from="1500559389759" duration="10000" />
       <workItem from="1500559404030" duration="2581000" />
-      <workItem from="1500655397151" duration="52150000" />
+      <workItem from="1500655397151" duration="52402000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="62592000" />
+    <option name="totallyTimeSpent" value="62844000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
@@ -881,8 +847,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="476">
-          <caret line="989" column="0" lean-forward="true" selection-start-line="989" selection-start-column="0" selection-end-line="989" selection-end-column="0" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
