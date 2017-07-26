@@ -11,7 +11,7 @@ To get the frontend running locally:
 For convenience, i used a live API server running at https://conduit.productionready.io/api for the application to make requests against. You can view [the API spec here](https://github.com/GoThinkster/productionready/blob/master/API.md) which contains all routes & responses for the server.
 
 ## Functionality overview
-The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. You can view a live demo over at https://redux.productionready.io/
+The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication.
 
 **General functionality:**
 
@@ -59,7 +59,7 @@ For convenience, i used a live API server running at https://conduit.productionr
 
 ## Functionality overview
 
-The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication.
+The example application is a social blogging site (i.e. a Medium.com clone) called "Conduit". It uses a custom API for all requests, including authentication. 
 
 **General functionality:**
 
@@ -92,5 +92,3 @@ The example application is a social blogging site (i.e. a Medium.com clone) call
 
 
 <!--
-
->>>>>>> a129537e78b754ac7d47e82e4c595be4ccb682fc
